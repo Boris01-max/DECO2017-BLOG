@@ -14,6 +14,8 @@ this is a markdown, so i can **use markdown**
 
 # Headings and such...
 
+## I'm a h2
+
 ```test 
 code blocks and all that 
 ```
