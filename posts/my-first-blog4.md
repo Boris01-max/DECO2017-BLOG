@@ -1,5 +1,5 @@
 ---
-title: week9
+title: Almost there 
 date: 2026-05-02
 author: Boris Lo
 summary: The first blog post where I go over the brief and consider a few potential concept.

@@ -1,5 +1,5 @@
 ---
-title: week7
+title: Suffuring
 date: 2026-04-18
 author: Boris Lo
 summary: The first blog post where I go over the brief and consider a few potential concept.
