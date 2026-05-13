@@ -1,5 +1,5 @@
 ---
-title: week2
+title: week6
 date: 2026-03-27
 author: Boris Lo
 summary: The first blog post where I go over the brief and consider a few potential concept.
