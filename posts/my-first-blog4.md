@@ -1,6 +1,6 @@
 ---
-title: week8
-date: 2026-03-27
+title: week9
+date: 2026-05-02
 author: Boris Lo
 summary: The first blog post where I go over the brief and consider a few potential concept.
 tags:
