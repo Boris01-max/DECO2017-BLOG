@@ -1,5 +1,5 @@
 ---
-title: Touch down 
+title: Game 
 date: 2026-05-09
 author: Boris Lo
 summary: The first blog post where I go over the brief and consider a few potential concept.
