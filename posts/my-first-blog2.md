@@ -12,9 +12,13 @@ Here I will write about all of the yhings.....
 
 this is a markdown, so i can **use markdown**
 
-# Headings and such...
+# Background Research
 
-## I'm a h2
+## Community
+
+## Cemeteries
+
+# Functional requirements
 
 ```test 
 code blocks and all that 
