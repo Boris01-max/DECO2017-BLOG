@@ -24,6 +24,14 @@ Instagram and Facebook : these two are the app I use the most in my daily life. 
 
 Discord : It is a platform I used to play online game with same game lover. Unlike traditional social media platforms, Discord focuses more on real-time communication and smaller group-based communities. Users interact through servers, channels, voice chats, and live discussions, which creates a stronger feeling of direct participation and belonging.
 
+finding :
+
+-Fast-consumption platforms encourage activity but often reduce meaningful interaction
+-Topic-based communities create stronger belonging through shared interests
+-Emotional communities rely more on storytelling and reflection
+-Community atmosphere is heavily influenced by interaction design and content structure
+-Users participate more when they feel emotionally connected to the platform
+
 # Cemeteries
 
 # Functional requirements
