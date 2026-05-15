@@ -63,6 +63,7 @@ we did not do community discussion spaces, because we believe it is unnecessary 
 Also my teammate meationed one key point, this community should let people to express their emotion and help them out of it. 
 
 Add fuction :
+
                 1. Self-destructing post system. 
 
 ```test 
