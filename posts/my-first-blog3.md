@@ -70,11 +70,6 @@ Home page
 
 During the structuring process, we prioritised memorial browsing and cemetery management as the core experience of the platform. Large public discussion systems and “nearby” recommendation features were intentionally removed because we wanted the platform to focus more on emotional resonance and one-on-one interaction rather than large-scale social communication or geographical relationships. Separating cemetery management into its own major section also helped emphasise the importance of memorial and content management within the overall experience.
 
-# Wireframe
-
-One major change we made was reducing the visual dominance of profile-related layouts and increasing the priority of memorial browsing and cemetery management. Earlier versions felt too similar to traditional social media platforms, which conflicted with the emotional direction of the project.
-
-Another important decision was simplifying the interface structure. Some early layouts contained too many interaction and navigation elements, creating unnecessary visual clutter. As a result, several elements were reduced or removed to maintain a calmer and more focused interaction experience.
 
 # Identifying unknowns and risks
 
