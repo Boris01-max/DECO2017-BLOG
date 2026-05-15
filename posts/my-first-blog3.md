@@ -12,9 +12,16 @@ Here I will write about all of the yhings.....
 
 this is a markdown, so i can **use markdown**
 
-# Headings and such...
+# User flow
 
-## I'm a h2
+## Main user task
+
+
+# Wireframe
+
+# System structure
+
+# Identifying unknowns and risks
 
 ```test 
 code blocks and all that 
