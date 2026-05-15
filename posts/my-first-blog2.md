@@ -18,11 +18,11 @@ To better understand how online communities function, I started comparing differ
 
 Observed communities : 1.Reddit 2.Instagram and Facebook 3. Discord 
 
-Reddit : I sometime go there to look for answer on specific question. It focus heavily on discussion and topic-based interaction. The strong point of this type of community is that people feel connected through common interests. However, because of the large amount of content and fast discussion flow, interactions can sometimes become overwhelming or emotionally disconnected.
+Reddit focuses heavily on discussion and topic-based interaction, where users connect through shared interests. However, the large amount of content can sometimes feel overwhelming.
 
-Instagram and Facebook : these two are the app I use the most in my daily life. Obviously, they are more visually driven nad focus on content consumption. Interaction is often quick and surface-level through likes, short comments, and continuous scrolling. While this creates high engagement and activity, the communication can feel temporary and less meaningful. Users consume large amounts of content rapidly, but deeper emotional connection is often limited. 
+Instagram and Facebook are more visually driven and focus heavily on content consumption. Interaction is usually fast and surface-level through likes, comments, and scrolling, which can reduce deeper emotional connection.
 
-Discord : It is a platform I used to play online game with same game lover. Unlike traditional social media platforms, Discord focuses more on real-time communication and smaller group-based communities. Users interact through servers, channels, voice chats, and live discussions, which creates a stronger feeling of direct participation and belonging.
+Discord focuses more on real-time communication and smaller group-based communities. Users interact through channels, voice chats, and live discussions, creating a stronger sense of participation and belonging.
 
 finding :
 
@@ -59,6 +59,11 @@ Basic fuction :
                 4. Short text and interaction system. 
 
 we did not do community discussion spaces, because we believe it is unnecessary and it should be more focus on 1 on 1 experience.
+
+Also my teammate meationed one key point, this community should let people to express their emotion and help them out of it. 
+
+Add fuction :
+                1. Self-destructing post system. 
 
 ```test 
 code blocks and all that 
