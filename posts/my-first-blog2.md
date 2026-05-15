@@ -27,9 +27,12 @@ Discord : It is a platform I used to play online game with same game lover. Unli
 finding :
 
 -Fast-consumption platforms encourage activity but often reduce meaningful interaction
+
 -Topic-based communities create stronger belonging through shared interests
 -Emotional communities rely more on storytelling and reflection
+
 -Community atmosphere is heavily influenced by interaction design and content structure
+
 -Users participate more when they feel emotionally connected to the platform
 
 # Cemeteries 
@@ -41,6 +44,15 @@ referring to two cemeteries online platform. I observed that digital memorial sp
 Cemeteries naturally contain storytelling elements. Every memorial represents a person, a history, and relationships connected to them. Because of this, the platform may become less focused on content consumption and more focused on emotional interaction and remembrance.
 
 # Functional requirements
+
+It is a emotion driven platform, so we keep everything simple and forgo the elemnets which may create choas. 
+
+Basic fuction : 1. Personal user profiles. 
+                2. Upload images, stories and memories. 
+                3. Search and browse memorial spaces.
+                4. Short text and interaction system. 
+
+we did not do community discussion spaces, because we believe it is unnecessary and it should be more focus on 1 on 1 experience.
 
 ```test 
 code blocks and all that 
