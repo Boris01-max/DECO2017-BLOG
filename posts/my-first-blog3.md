@@ -72,7 +72,15 @@ During the structuring process, we prioritised memorial browsing and cemetery ma
 
 # Wireframe
 
+One major change we made was reducing the visual dominance of profile-related layouts and increasing the priority of memorial browsing and cemetery management. Earlier versions felt too similar to traditional social media platforms, which conflicted with the emotional direction of the project.
+
+Another important decision was simplifying the interface structure. Some early layouts contained too many interaction and navigation elements, creating unnecessary visual clutter. As a result, several elements were reduced or removed to maintain a calmer and more focused interaction experience.
+
 # Identifying unknowns and risks
+
+One important uncertainty we identified is whether reducing so many traditional online community functions will negatively affect long-term engagement and interaction within the platform. Compared to mainstream social media platforms, we intentionally removed features such as large discussion systems, recommendation feeds, and complex communication functions in order to maintain a calmer and more emotionally focused experience. However, this may also reduce user activity and limit the ways people interact within the community.
+
+This created an important trade-off during the design process. While simplifying the platform helps reinforce emotional reflection and memorial atmosphere, it may also make the platform feel less socially active compared to conventional online communities. As the project develops further, we will need to evaluate whether the current interaction systems are emotionally meaningful enough to sustain user participation without relying on traditional engagement-driven features.
 
 ```test 
 code blocks and all that 
