@@ -12,9 +12,11 @@ Here I will write about all of the yhings.....
 
 this is a markdown, so i can **use markdown**
 
-# Headings and such...
+# Data focus
 
-## I'm a h2
+# DDD
+
+# ERD
 
 ```test 
 code blocks and all that 
