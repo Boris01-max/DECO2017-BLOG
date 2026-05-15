@@ -39,34 +39,29 @@ Findings :
 
 # Cemeteries 
 
-Once my teammate proposed this idea, I mostly viewed cemeteries as physical spaces connected to death and mourning. However, the first things came up is the movie called "COCO". there is one quote that I really like is "The real death is that no one is the world remembers you".
+Once my teammate proposed this idea, I mostly viewed cemeteries as physical spaces connected to death and mourning. However, the first thing that came to mind was the movie called "COCO". There is one quote that I really like: "The real death is that no one in the world remembers you".
 
-referring to two online cemetery platform. I observed that digital memorial spaces often feel very different from traditional social media platforms. Instead of encouraging fast interaction and constant content updates, these spaces usually create slower and more reflective experiences. Users spend more time reading personal stories, viewing memories, and emotionally engaging with content. The atmosphere feels quieter, more emotional, and more respectful compared to mainstream online communities.
+Referring to two online cemetery platforms, I observed that digital memorial spaces often feel very different from traditional social media platforms. Instead of encouraging fast interaction and constant content updates, these spaces usually create slower and more reflective experiences. Users spend more time reading personal stories, viewing memories, and emotionally engaging with content. The atmosphere feels quieter, more emotional, and more respectful compared to mainstream online communities.
 
 Cemeteries naturally contain storytelling elements. Every memorial represents a person, a history, and relationships connected to them. Because of this, the platform may become less focused on content consumption and more focused on emotional interaction and remembrance.
 
 # Functional requirements
 
-It is a emotion-driven platform, so we keep everything simple and forgo the elements which may create choas. 
+It is an emotion-driven platform, so we keep everything simple and forgo the elements which may create chaos.
 
-Basic fuction : 
+Basic functions :
 
-                1. Personal user profiles.
+                 1. Personal user profiles.
+                 2. Upload images, stories and memories.
+                 3. Search and browse memorial spaces.
+                 4. Short text and interaction system.
 
-                2. Upload images, stories and memories.
+We did not include community discussion spaces, because we believe they are unnecessary and the platform should be more focused on a 1 on 1 experience.
 
-                3. Search and browse memorial spaces.
+Also, my teammate mentioned one key point: this community should allow people to express their emotions and help them process those emotions.
 
-                4. Short text and interaction system. 
-
-we did not do community discussion spaces, because we believe it is unnecessary and it should be more focused on 1 on 1 experience.
-
-Also my teammate meationed one key point, this community should allow people to express their emotion and help them process those emotions. 
-
-Additional fuction :
-
-                1. Self-destructing post system. 
-
+Add function :
+              1. Self-destructing post system.
 ```test 
 code blocks and all that 
 ```
