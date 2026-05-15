@@ -34,6 +34,12 @@ finding :
 
 # Cemeteries
 
+Once my teammate propose this idea, I mostly viewed cemeteries as physical spaces connected to death and mourning. However, the first things came up is the movice called "COCO". there is one quote that I really like is "The real death is that no one is the world remembers you".
+
+referring to two cemeteries online platform. I observed that digital memorial spaces often feel very different from traditional social media platforms. Instead of encouraging fast interaction and constant content updates, these spaces usually create slower and more reflective experiences. Users spend more time reading personal stories, viewing memories, and emotionally engaging with content. The atmosphere feels quieter, more emotional, and more respectful compared to mainstream online communities.
+
+Cemeteries naturally contain storytelling elements. Every memorial represents a person, a history, and relationships connected to them. Because of this, the platform may become less focused on content consumption and more focused on emotional interaction and remembrance.
+
 # Functional requirements
 
 ```test 
