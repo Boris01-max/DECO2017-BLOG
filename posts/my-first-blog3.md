@@ -23,36 +23,23 @@ The main experience of the platform is designed around emotional interaction and
 Browse memorial spaces → open a grave page → read memories → leave an interaction → continue exploring.
 
                               Home page
-
                                   ↓
-
                         Browse cemetery spaces
-
                                   ↓
-
                         Select memorial / grave
-
                                   ↓
-
                            View grave page
-
                                   ↓
-
                   Read stories, images, and memories
-
                                   ↓
-
                            Choose interaction
-
                                   ↓
-
                        Leave flower / short message......
-
                                   ↓
-
                Return to cemetery page or continue exploring
 
 # System Structure
+
 
 # Wireframe
 
