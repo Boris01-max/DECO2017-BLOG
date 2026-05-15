@@ -32,7 +32,7 @@ finding :
 -Community atmosphere is heavily influenced by interaction design and content structure
 -Users participate more when they feel emotionally connected to the platform
 
-# Cemeteries
+# Cemeteries 
 
 Once my teammate propose this idea, I mostly viewed cemeteries as physical spaces connected to death and mourning. However, the first things came up is the movice called "COCO". there is one quote that I really like is "The real death is that no one is the world remembers you".
 
