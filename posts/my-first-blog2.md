@@ -49,6 +49,7 @@ Cemeteries naturally contain storytelling elements. Every memorial represents a 
 It is a emotion driven platform, so we keep everything simple and forgo the elemnets which may create choas. 
 
 Basic fuction : 
+
                 1. Personal user profiles.
 
                 2. Upload images, stories and memories.
