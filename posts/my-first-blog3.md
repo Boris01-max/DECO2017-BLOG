@@ -44,27 +44,29 @@ According to our user flow, we started organising the overall structure of the p
 
 ## Sitemap
 
+```
 Home page
 ├── Browse cemetery spaces
-│  ├── Search memorial / user
-│  ├── Memorial pages
-│  │  ├── Memorial content
-│  │  │  ├── Stories and memories
-│  │  │  ├── Images
-│  │  │  └── Personal information
-│  │  ├── Leave flower interaction
-│  │  └── Short text interaction
+│   ├── Search memorial / user
+│   ├── Memorial pages
+│   │   ├── Memorial content
+│   │   │   ├── Stories and memories
+│   │   │   ├── Images
+│   │   │   └── Personal information
+│   │   ├── Leave flower interaction
+│   │   └── Short text interaction
 │
 ├── Cemetery management
-│  ├── Personal burial ground
-│  ├── Manage memorial pages
-│  ├── Uploaded memories and interactions
-│  └── Cremation furnace system
+│   ├── Personal burial ground
+│   ├── Manage memorial pages
+│   ├── Uploaded memories and interactions
+│   └── Cremation furnace system
 │
 └── User profile
-   ├── Account settings
-   ├── Saved interactions
-   └── Personal information
+    ├── Account settings
+    ├── Saved interactions
+    └── Personal information
+```
 
 During the structuring process, we prioritised memorial browsing and cemetery management as the core experience of the platform. Large public discussion systems and “nearby” recommendation features were intentionally removed because we wanted the platform to focus more on emotional resonance and one-on-one interaction rather than large-scale social communication or geographical relationships. Separating cemetery management into its own major section also helped emphasise the importance of memorial and content management within the overall experience.
 
