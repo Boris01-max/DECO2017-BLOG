@@ -49,12 +49,12 @@ Home page
 ├── Browse cemetery spaces
 │   ├── Search memorial / user
 │   ├── Memorial pages
-│   │   ├── Memorial content
-│   │   │   ├── Stories and memories
-│   │   │   ├── Images
-│   │   │   └── Personal information
-│   │   ├── Leave flower interaction
-│   │   └── Short text interaction
+│       ├── Memorial content
+│       │   ├── Stories and memories
+│       │   ├── Images
+│       │   └── Personal information
+│       ├── Leave flower interaction
+│       └── Short text interaction
 │
 ├── Cemetery management
 │   ├── Personal burial ground
