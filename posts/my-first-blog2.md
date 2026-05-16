@@ -2,7 +2,7 @@
 title: Fifteen
 date: 2026-04-18
 author: Boris Lo
-summary: The first blog post where I go over the brief and consider a few potential concept.
+summary: Continuing from the first concept exploration, this post focuses more on shaping the emotional direction of the platform and figuring out what kind of interaction actually fits a memorial space.
 tags:
   - ideation phase 
   - interactive application 

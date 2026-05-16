@@ -2,7 +2,7 @@
 title: Game 
 date: 2026-05-09
 author: Boris Lo
-summary: The first blog post where I go over the brief and consider a few potential concept.
+summary: After most of the structure became clearer, this post reflects more on accessibility, interaction clarity, and usability problems discovered during the evaluation process.
 tags:
   - ideation phase 
   - interactive application 

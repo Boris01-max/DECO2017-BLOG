@@ -2,7 +2,7 @@
 title: Forty
 date: 2026-05-02
 author: Boris Lo
-summary: The first blog post where I go over the brief and consider a few potential concept.
+summary: This stage focuses more on system thinking by using DDD and ERD to break down how platform data, memorial pages, and interaction systems connect together.
 tags:
   - ideation phase 
   - interactive application 

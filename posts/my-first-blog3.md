@@ -2,7 +2,7 @@
 title: Thirty
 date: 2026-04-25
 author: Boris Lo
-summary: The first blog post where I go over the brief and consider a few potential concept.
+summary: In this post, I start organising the platform structure through user flow and sitemap development to understand how users move through memorial spaces and interaction systems.
 tags:
   - ideation phase 
   - interactive application 
