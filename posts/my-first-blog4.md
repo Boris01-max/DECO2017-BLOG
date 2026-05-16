@@ -114,7 +114,7 @@ Memorial Page
 └── contains Temporary Grave Post
 ```
 
-![ERD Diagram](/assets/image/erd.png)
+![ERD Diagram](assets/image/erd.png)
 
 ```test 
 code blocks and all that 
