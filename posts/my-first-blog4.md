@@ -88,6 +88,34 @@ During the DDD process in class, we noticed that “memorial content” was too 
 
 # ERD
 
+# ERD
+
+While building the ERD, we kept memorial pages as the central data entity because most core actions connect back to them. Users can browse memorial pages, read stories, view optional images, and leave interactions.
+
+Another decision was keeping the structure mostly one-to-many. This avoids building a complex social network structure and keeps the system focused on memorial content and emotional interaction.
+
+Temporary grave posts were also redefined during this process. Instead of becoming a standalone social posting system, they function more as part of the interaction lifecycle. Users leave short text interactions, while the system automatically manages post expiry and deletion through time-based data.
+
+User
+│
+├── owns / manages Memorial Page
+│
+├── uploads Story / Memory
+│
+├── uploads optional Image
+│
+└── leaves Interaction
+        └── may become Temporary Grave Post
+
+Memorial Page
+│
+├── contains Story / Memory
+├── contains optional Image
+├── receives Interaction
+└── contains Temporary Grave Post
+
+![ERD diagram](images/erd.png)
+
 ```test 
 code blocks and all that 
 ```
