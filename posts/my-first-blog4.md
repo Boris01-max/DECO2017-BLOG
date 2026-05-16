@@ -20,10 +20,12 @@ During the DDD process in class, we noticed that “memorial content” was too 
 
 ## User
 
+```
 | attribute | description | example |
 |---|---|---|
 | user_id | User ID | 001 |
 | username | Display name | Powei |
+```
 
 
 <br><br>
@@ -31,6 +33,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 
 ## Memorial page
 
+```
 | attribute | description | example |
 |---|---|---|
 | memorial_id | Memorial ID | 001 |
@@ -40,6 +43,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | birth_date | Born | 1945 |
 | death_date | Died | 2021 |
 | cover_image | Image | memorial_01.png |
+```
 
 
 <br><br>
@@ -47,6 +51,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 
 ## Story / Memory
 
+```
 | attribute | description | example |
 |---|---|---|
 | story_id | Story ID | 102 |
@@ -55,6 +60,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | title | Story title | “Family camping trip” |
 | content | Story content | “He always carried a camera…” |
 | upload_date | Upload date | 2026-05-14 |
+```
 
 
 <br><br>
@@ -62,6 +68,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 
 ## Interaction
 
+```
 | attribute | description | example |
 |---|---|---|
 | interaction_id | Interaction ID | 301 |
@@ -70,6 +77,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | interaction_type | Interaction type | Flower |
 | content | Interaction message | “Rest in peace.” |
 | created_at | Creation time | 2026-05-14 18:30 |
+```
 
 
 <br><br>
@@ -77,6 +85,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 
 ## Temporary grave post
 
+```
 | attribute | description | example |
 |---|---|---|
 | post_id | Temporary post ID | 501 |
@@ -85,6 +94,8 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | content | Emotional message | “I still miss you.” |
 | created_at | Creation time | 2026-05-14 20:00 |
 | expires_at | Deletion time | 2026-05-21 20:00 |
+```
+
 
 # ERD
 
