@@ -140,7 +140,7 @@ One user has one profile for account settings, saved interactions, and personal 
 Memorial Page 1 ─── many Temporary Grave Post  
 One memorial page can contain many temporary grave posts, which are automatically managed by the system.
 
-![ERD Diagram](../assets/image/erd.png)
+![ERD Diagram](/assets/image/erd.png)
 
 ```test 
 code blocks and all that 
