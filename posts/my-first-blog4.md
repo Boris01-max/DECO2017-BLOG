@@ -22,17 +22,12 @@ At first, some attributes looked simple inside the wireframe, but later revealed
 
 | attribute | description | example value |
 |---|---|---|
-| memorial_id | Unique memorial identifier | 001 |
-
-| name | Name of the deceased person | John Smith |
-
-| biography | Short personal story or description | “Loved travelling and photography.” |
-
-| birth_date | Date of birth | 1945 |
-
-| death_date | Date of death | 2021 |
-
-| cover_image | Main memorial image | memorial_01.png |
+| memorial_id | Memorial ID | 001 |
+| name | Deceased name | John Smith |
+| biography | Personal story | “Loved travelling and photography.” |
+| birth_date | Birth date | 1945 |
+| death_date | Death date | 2021 |
+| cover_image | Memorial image | memorial_01.png |
 
 
 <br><br>
@@ -42,15 +37,11 @@ At first, some attributes looked simple inside the wireframe, but later revealed
 
 | attribute | description | example value |
 |---|---|---|
-| story_id | Unique story identifier | 102 |
-
-| memorial_id | Connected memorial page | 001 |
-
+| story_id | Story ID | 102 |
+| memorial_id | Connected memorial | 001 |
 | title | Story title | “Family camping trip” |
-
-| content | Uploaded memory content | “He always carried a camera…” |
-
-| upload_date | Date uploaded | 2026-05-14 |
+| content | Story content | “He always carried a camera…” |
+| upload_date | Upload date | 2026-05-14 |
 
 
 <br><br>
@@ -60,15 +51,11 @@ At first, some attributes looked simple inside the wireframe, but later revealed
 
 | attribute | description | example value |
 |---|---|---|
-| interaction_id | Unique interaction identifier | 301 |
-
-| memorial_id | Connected memorial page | 001 |
-
-| interaction_type | Type of interaction | Flower |
-
-| content | Short text interaction | “Rest in peace.” |
-
-| created_at | Interaction timestamp | 2026-05-14 18:30 |
+| interaction_id | Interaction ID | 301 |
+| memorial_id | Connected memorial | 001 |
+| interaction_type | Interaction type | Flower |
+| content | Interaction message | “Rest in peace.” |
+| created_at | Creation time | 2026-05-14 18:30 |
 
 
 <br><br>
@@ -78,15 +65,11 @@ At first, some attributes looked simple inside the wireframe, but later revealed
 
 | attribute | description | example value |
 |---|---|---|
-| post_id | Unique temporary post identifier | 501 |
-
-| memorial_id | Connected memorial page | 001 |
-
+| post_id | Temporary post ID | 501 |
+| memorial_id | Connected memorial | 001 |
 | content | Emotional message | “I still miss you.” |
-
-| created_at | Post creation time | 2026-05-14 20:00 |
-
-| expires_at | Automatic deletion time | 2026-05-21 20:00 |
+| created_at | Creation time | 2026-05-14 20:00 |
+| expires_at | Deletion time | 2026-05-21 20:00 |
 
 # ERD
 
