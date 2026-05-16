@@ -117,6 +117,29 @@ Memorial Page
 └── contains Temporary Grave Post
 ```
 
+## Relationships
+
+User 1 ─── many Memorial Page  
+One user can create or manage many memorial pages.
+
+Memorial Page 1 ─── many Story / Memory  
+One memorial page can contain many stories or memories.
+
+Memorial Page 1 ─── many Image  
+One memorial page can contain optional uploaded images.
+
+Memorial Page 1 ─── many Interaction  
+One memorial page can receive many flowers or short text interactions.
+
+User 1 ─── many Interaction  
+One user can leave many interactions on different memorial pages.
+
+User 1 ─── 1 User Profile  
+One user has one profile for account settings, saved interactions, and personal information.
+
+Memorial Page 1 ─── many Temporary Grave Post  
+One memorial page can contain many temporary grave posts, which are automatically managed by the system.
+
 ![ERD Diagram](../assets/image/erd.png)
 
 ```test 
