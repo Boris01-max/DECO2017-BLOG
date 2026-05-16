@@ -27,9 +27,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | username | Display name | Powei |
 ```
 
-
 <br><br>
-
 
 ## Memorial page
 
@@ -45,9 +43,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | cover_image | Image | memorial_01.png |
 ```
 
-
 <br><br>
-
 
 ## Story / Memory
 
@@ -62,9 +58,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | upload_date | Upload date | 2026-05-14 |
 ```
 
-
 <br><br>
-
 
 ## Interaction
 
@@ -79,9 +73,7 @@ During the DDD process in class, we noticed that “memorial content” was too 
 | created_at | Creation time | 2026-05-14 18:30 |
 ```
 
-
 <br><br>
-
 
 ## Temporary grave post
 
