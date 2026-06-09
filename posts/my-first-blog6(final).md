@@ -46,11 +46,30 @@ Another limitation of the project relates to the animated video backgrounds used
 
 Looking back, one of the most surprising outcomes of the evaluation was how little the visual effects affected overall performance. I initially assumed that creating a strong atmosphere would require sacrificing efficiency. Instead, the testing demonstrated that it is possible to balance visual storytelling and technical performance when design decisions are carefully considered. This reinforced the importance of testing assumptions rather than relying solely on expectations during development.
 
-![Community Lighthouse](../assets/image/lighthouse-community.png)
+![Community Lighthouse](/DECO2017-BLOG/assets/image/lighthouse-community.png)
 
 *Figure 1. Lighthouse audit results for the Community page.*
 
-![Garden Lighthouse](../assets/image/lighthouse-garden.png)
+![Garden Lighthouse](/DECO2017-BLOG/assets/image/lighthouse-garden.png)
 
 *Figure 2. Lighthouse audit results for the Garden page.*
+
+
+## Accessibility and Responsive Testing
+
+### WCAG-style Testing Evidence
+
+To evaluate accessibility, I combined Lighthouse accessibility results with manual WCAG-style checks. I tested keyboard navigation, focus visibility, colour contrast, form labels, and responsive behaviour across desktop, tablet, and mobile layouts.
+
+| Test | Result | Observation |
+|------|--------|-------------|
+| Keyboard navigation | Pass | Main navigation, buttons, dropdowns, and inputs could be reached using the keyboard. |
+| Focus visibility | Pass | Interactive elements showed visible focus states when tabbing through the page. |
+| Colour contrast | Pass | Lighthouse did not identify contrast issues across the tested pages. |
+| Form labels | Minor issue | Lighthouse identified that some select elements did not have associated label elements. |
+| Responsive layout | Pass with minor issues | Pages remained usable on tablet and mobile, but navigation became crowded on smaller screens. |
+
+The most useful accessibility finding was the missing label issue on select elements. Visually, users could still understand the dropdowns because they were placed near relevant content, such as visibility settings and filters. However, this is still a weakness because screen reader users may not receive enough context about what the dropdown is for.
+
+This made me realise that accessibility cannot only be checked visually. A page can look clear to me but still have semantic problems in the HTML. If I continued development, I would add proper `label` elements or `aria-label` attributes to all form controls, especially dropdowns and icon-only buttons.
 
