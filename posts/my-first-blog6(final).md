@@ -55,9 +55,9 @@ Looking back, one of the most surprising outcomes of the evaluation was how litt
 *Figure 2. Lighthouse audit results for the Garden page.*
 
 
-## Accessibility and Responsive Testing
+# Accessibility and Responsive Testing
 
-### WCAG-style Testing Evidence
+## WCAG-style Testing Evidence
 
 To evaluate accessibility, I combined Lighthouse accessibility results with manual WCAG-style checks. I tested keyboard navigation, focus visibility, colour contrast, form labels, and responsive behaviour across desktop, tablet, and mobile layouts.
 
