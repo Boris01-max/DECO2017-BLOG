@@ -110,3 +110,15 @@ The Profile page required the most responsive adjustments due to its custom circ
 ![Profile Mobile](/DECO2017-BLOG/assets/image/profile-mobile.png)
 
 *Figure 11. Profile page displayed on an iPhone SE viewport.*
+
+# Lessons Learned
+
+Looking back on the project, the biggest lesson for me was learning how difficult it is to move beyond familiar design patterns. Throughout development, I was heavily influenced by the idea of an online community. Because of this, I kept thinking that the platform needed features commonly found in community-based websites. As a result, we continued adding functions and interactions that felt familiar rather than questioning whether they were truly necessary for the experience we wanted to create.
+
+Over time, I realised that adding more features does not automatically make a website more meaningful. In some cases, additional functions increased complexity without strengthening the core idea of remembrance and reflection. If I were to continue developing Silent Archive, I would spend more time identifying the essential experience first and only include features that directly support that goal.
+
+I also learned that innovation is not only about functionality but also about presentation and visual identity. While the final design is functional and visually consistent, many aspects of the interface still resemble conventional websites. The layouts, navigation structure, and colour palette were largely based on safe design decisions. Rather than exploring more experimental directions, I often chose options that felt reliable and familiar. This helped reduce design risk, but it also limited the uniqueness of the final experience.
+
+In hindsight, I believe I was too focused on making the platform work and not focused enough on creating a distinctive visual language that would give users a strong reason to remember the website. The project challenged me to think about how interaction design, atmosphere, and visual storytelling can work together to create a stronger emotional impact.
+
+Perhaps the most important lesson from this project is that good design is not about how many features are included. Instead, it is about making deliberate decisions and ensuring that every element contributes to the overall experience. Moving forward, I want to become more confident in removing unnecessary features, taking creative risks, and exploring ideas beyond familiar design conventions.
